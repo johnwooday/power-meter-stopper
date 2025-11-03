@@ -31,4 +31,4 @@ Download the latest version of Power Meter Stopper now and join thousands of sat
 - **Connect with Us:** [Telegram Bot](https://t.me/robochata_bot)
 
 
-[![Watch the video](/power-meter-stopper.jpg)](https://youtu.be/zisKMBtg_Gc)
+[![Watch the video](https://img.youtube.com/vi/zisKMBtg_Gc/maxresdefault.jpg)](https://youtu.be/zisKMBtg_Gc)
